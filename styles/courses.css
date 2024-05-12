@@ -1,0 +1,23 @@
+.courses-container {
+    background-color: black;
+    padding: 2rem;
+    /* background-image: url(../assets/img/IMG-20240502-WA0009.jpg);
+    background-repeat: no-repeat;
+    background-size:cover; */
+}
+
+.card {
+    background:linear-gradient(135deg, #313131 0%,#000000 100%);
+    color: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+}
+
+.card-body {
+    border-radius: 1rem;
+}
+
+.row {
+    margin: 0;
+}
+

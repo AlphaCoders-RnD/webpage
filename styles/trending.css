@@ -1,0 +1,9 @@
+#trending-container {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#trending-container > h2 {
+    text-align: center;
+    padding: 2rem;
+}
